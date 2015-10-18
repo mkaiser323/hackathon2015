@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pet Connect</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">" + "</string>
+
+    <string name="facebook_app_id">1515064665474245</string>
+
+</resources>
