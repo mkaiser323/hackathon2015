@@ -1,3 +1,6 @@
 # hackathon2015
 
-need to update this readme later
+One half of our submission for Lehman's 2nd annual hackathon
+Android app PetConnect
+
+Website can be viewed here <enter URL here>
