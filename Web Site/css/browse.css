@@ -1,0 +1,40 @@
+body{
+	background-color: #00c5cd;
+}
+
+nav{
+	display: block;
+}
+
+#navigation{
+	float: left;
+}
+
+#search{
+	margin-top: 7px;
+	float: right;
+}
+
+input{
+	font-size: 18px;
+}
+
+input:focus{
+	outline: none;
+}
+
+button{
+	background-color: #00c5cd;
+	color: #fff;
+	font-size: 18px;
+}
+
+button i{
+	color: #fff;
+}
+
+.phone{
+	text-align: right;
+	color: #00c5cd;
+	font-weight: bold;
+}
